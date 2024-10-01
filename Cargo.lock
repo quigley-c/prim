@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "dijkstra"
+name = "prim"
 version = "0.1.0"
